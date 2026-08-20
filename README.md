@@ -17,7 +17,7 @@
 > boot dracoder ─────────────────────────────────────────────
   role      fullstack engineer · ai agents · automation
   stack     TypeScript · Node · Laravel · Vue · React · Next
-  minds     any model, or local via Ollama
+  models    Claude · GPT-5 · Gemini · DeepSeek · Llama
   building  creative projects  ▓▓▓▓▓▓▓░░░  tech from other worlds
 > _
 ```
@@ -26,15 +26,41 @@
 
 <div align="center">
 
+**ai & agents**
+
+![Claude Agent SDK](https://img.shields.io/badge/Claude%20Agent%20SDK-0a0714?style=for-the-badge&logo=anthropic&logoColor=c026d3)
+![Anthropic API](https://img.shields.io/badge/Anthropic%20API-0a0714?style=for-the-badge&logo=anthropic&logoColor=c026d3)
+![Ollama](https://img.shields.io/badge/Ollama-0a0714?style=for-the-badge&logo=ollama&logoColor=ffffff)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-0a0714?style=for-the-badge&logo=openrouter&logoColor=c026d3)
+![RAG](https://img.shields.io/badge/RAG-0a0714?style=for-the-badge)
+![pgvector](https://img.shields.io/badge/pgvector-0a0714?style=for-the-badge&logo=postgresql&logoColor=c026d3)
+
+**languages**
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-0a0714?style=for-the-badge&logo=typescript&logoColor=22d3ee)
-![Node.js](https://img.shields.io/badge/Node.js-0a0714?style=for-the-badge&logo=nodedotjs&logoColor=22d3ee)
-![Laravel](https://img.shields.io/badge/Laravel-0a0714?style=for-the-badge&logo=laravel&logoColor=c026d3)
-![Vue](https://img.shields.io/badge/Vue-0a0714?style=for-the-badge&logo=vuedotjs&logoColor=22d3ee)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0714?style=for-the-badge&logo=javascript&logoColor=22d3ee)
+![Python](https://img.shields.io/badge/Python-0a0714?style=for-the-badge&logo=python&logoColor=22d3ee)
+![PHP](https://img.shields.io/badge/PHP-0a0714?style=for-the-badge&logo=php&logoColor=22d3ee)
+![SQL](https://img.shields.io/badge/SQL-0a0714?style=for-the-badge&logo=postgresql&logoColor=22d3ee)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-0a0714?style=for-the-badge&logo=html5&logoColor=22d3ee)
+
+**frameworks**
+
 ![React](https://img.shields.io/badge/React-0a0714?style=for-the-badge&logo=react&logoColor=22d3ee)
 ![Next.js](https://img.shields.io/badge/Next.js-0a0714?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
-![PHP](https://img.shields.io/badge/PHP-0a0714?style=for-the-badge&logo=php&logoColor=c026d3)
+![Vue](https://img.shields.io/badge/Vue-0a0714?style=for-the-badge&logo=vuedotjs&logoColor=22d3ee)
+![Laravel](https://img.shields.io/badge/Laravel-0a0714?style=for-the-badge&logo=laravel&logoColor=c026d3)
+![Node/Express](https://img.shields.io/badge/Node%2FExpress-0a0714?style=for-the-badge&logo=nodedotjs&logoColor=22d3ee)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-0a0714?style=for-the-badge&logo=inertia&logoColor=c026d3)
 ![Tailwind](https://img.shields.io/badge/Tailwind-0a0714?style=for-the-badge&logo=tailwindcss&logoColor=22d3ee)
-![Ollama](https://img.shields.io/badge/Ollama-0a0714?style=for-the-badge&logo=ollama&logoColor=ffffff)
+
+**data & infra**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0714?style=for-the-badge&logo=postgresql&logoColor=22d3ee)
+![Supabase](https://img.shields.io/badge/Supabase-0a0714?style=for-the-badge&logo=supabase&logoColor=22d3ee)
+![Firebase](https://img.shields.io/badge/Firebase-0a0714?style=for-the-badge&logo=firebase&logoColor=c026d3)
+![Redis](https://img.shields.io/badge/Redis-0a0714?style=for-the-badge&logo=redis&logoColor=22d3ee)
+![BullMQ](https://img.shields.io/badge/BullMQ-0a0714?style=for-the-badge&logo=bull&logoColor=22d3ee)
 ![Docker](https://img.shields.io/badge/Docker-0a0714?style=for-the-badge&logo=docker&logoColor=22d3ee)
 
 </div>
