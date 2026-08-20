@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="banner.png" alt="dracoder"/>
+<img width="100%" src="header.png" alt="dracoder"/>
 
 <a href="https://github.com/dracoder">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=C026D3&center=true&vCenter=true&width=720&lines=I+build+AI+agents+and+automation+tools.;Laravel+%C2%B7+Node+%C2%B7+Vue+%C2%B7+React+%C2%B7+Next.js;Currently%3A+a+city+run+by+50+autonomous+AI+agents."/>
