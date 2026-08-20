@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&customColorList=12,20,24,30&text=DRACODER&fontColor=22d3ee&fontSize=72&fontAlignY=36&desc=fullstack%20engineer%20//%20building%20AI%20agents%20%26%20autonomous%20worlds&descSize=17&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="banner.png" alt="dracoder"/>
 
 <a href="https://github.com/dracoder">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=C026D3&center=true&vCenter=true&width=720&lines=I+build+AI+agents+and+automation+tools.;Laravel+%C2%B7+Node+%C2%B7+Vue+%C2%B7+React+%C2%B7+Next.js;Currently%3A+a+city+run+by+50+autonomous+AI+agents."/>
@@ -39,17 +39,6 @@
 
 </div>
 
-### ◤ signal
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dracoder&show_icons=true&hide_border=true&title_color=22d3ee&icon_color=c026d3&text_color=c9d1d9&bg_color=0a0714&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dracoder&hide_border=true&background=0a0714&stroke=1f2937&ring=c026d3&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=c9d1d9&dates=6b7280&currStreakNum=c9d1d9&sideNums=c9d1d9"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dracoder&layout=compact&hide_border=true&title_color=22d3ee&text_color=c9d1d9&bg_color=0a0714&langs_count=8"/>
-
-</div>
-
 ### ◤ contribution activity
 
 <div align="center">
@@ -65,12 +54,6 @@
 >
 > `TypeScript` · `Canvas 2D` · `SHA-256 deterministic replay` · `local-model minds`
 
-### ◤ trophies
-
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dracoder&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=4"/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24,30&section=footer&reversal=true"/>
-
+<sub>◦ dark cyber signal system ◦</sub>
 </div>
