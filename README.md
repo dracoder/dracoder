@@ -90,7 +90,7 @@
 
 <div align="center">
 
-![open to build something](https://img.shields.io/badge/open_to_build_something-c026d3?style=for-the-badge&labelColor=0a0714)
+[![open to build something](https://img.shields.io/badge/open_to_build_something-c026d3?style=for-the-badge&labelColor=0a0714)](https://github.com/dracoder)
 
 </div>
 
