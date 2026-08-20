@@ -3,7 +3,7 @@
 <img width="100%" src="header.png" alt="dracoder"/>
 
 <a href="https://github.com/dracoder">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=C026D3&center=true&vCenter=true&width=720&lines=I+build+AI+agents+and+automation+tools.;Laravel+%C2%B7+Node+%C2%B7+Vue+%C2%B7+React+%C2%B7+Next.js;Currently%3A+a+city+run+by+50+autonomous+AI+agents."/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=C026D3&center=true&vCenter=true&width=720&lines=I+build+creative+apps+and+AI+automations.;Laravel+%C2%B7+Node+%C2%B7+Vue+%C2%B7+React+%C2%B7+Next+%C2%B7+TypeScript;products%2C+systems+%26+otherworldly+tech."/>
 </a>
 
 <br/>
@@ -19,7 +19,7 @@
   stack     TS · JS · Python · PHP · React · Next · Vue
             Laravel · Node · Inertia · Tailwind
   models    Claude · GPT-5 · Gemini · DeepSeek · Llama
-  building  otherworldly tech  ▓▓▓▓▓▓▓░░░
+  building  frontier tech  ▓▓▓▓▓▓▓░░░
 > _
 ```
 
@@ -74,12 +74,12 @@
 
 </div>
 
-### ◤ featured build
+### ◤ what i build
 
-> **▹ AUTOPOLIS**
-> A deterministic simulation of a cyberpunk city run by 50 autonomous AI agents. They wake, commute, work, study, graduate, and get hired, all replayed byte for byte and rendered into cinematic reels. Drive the citizens with a local model.
+> **▹ full-stack products, end to end**
+> Creative apps and AI automations, plus the real-time systems and backends behind them. From first prototype to production.
 >
-> `TypeScript` · `Canvas 2D` · `SHA-256 deterministic replay` · `local-model minds`
+> `TypeScript` · `ai & agents` · `automation` · `real-time systems`
 
 <div align="center">
 <sub>◦ dark cyber signal system ◦</sub>
