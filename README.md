@@ -3,7 +3,7 @@
 <img width="100%" src="header.png" alt="dracoder"/>
 
 <a href="https://github.com/dracoder">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=C026D3&center=true&vCenter=true&width=720&lines=I+build+creative+apps+and+AI+automations.;Laravel+%C2%B7+Node+%C2%B7+Vue+%C2%B7+React+%C2%B7+Next+%C2%B7+TypeScript;products%2C+systems+%26+otherworldly+tech."/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=C026D3&center=true&vCenter=true&width=720&lines=I+build+creative+apps+and+AI+automations.;Laravel+%C2%B7+Node+%C2%B7+Vue+%C2%B7+React+%C2%B7+Next+%C2%B7+TypeScript;products%2C+systems+%26+frontier+tech."/>
 </a>
 
 <br/>
