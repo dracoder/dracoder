@@ -16,9 +16,10 @@
 ```txt
 > boot dracoder ─────────────────────────────────────────────
   role      fullstack engineer · ai agents · automation
-  stack     TypeScript · Node · Laravel · Vue · React · Next
+  stack     TS · JS · Python · PHP · React · Next · Vue
+            Laravel · Node · Inertia · Tailwind
   models    Claude · GPT-5 · Gemini · DeepSeek · Llama
-  building  creative projects  ▓▓▓▓▓▓▓░░░  tech from other worlds
+  building  otherworldly tech  ▓▓▓▓▓▓▓░░░
 > _
 ```
 
