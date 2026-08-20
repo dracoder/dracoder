@@ -13,7 +13,7 @@
 
 <br/>
 
-<sub><code>// status: shipping the weird idea, not the deck about it</code></sub>
+<sub><code>// status: online · signal live · all systems nominal</code></sub>
 
 </div>
 
