@@ -16,7 +16,7 @@
 ```txt
 > boot dracoder ─────────────────────────────────────────────
   role      fullstack engineer · ai agents · automation
-  stack     TS · JS · Python · PHP · React · Next · Vue
+  stack     TS · JS · Python · PHP · C# · React · Next · Vue
             Laravel · Node · Inertia · Tailwind
   models    Claude · GPT-5 · Gemini · DeepSeek · Llama
   building  frontier tech  ▓▓▓▓▓▓▓░░░
@@ -42,6 +42,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a0714?style=for-the-badge&logo=javascript&logoColor=22d3ee)
 ![Python](https://img.shields.io/badge/Python-0a0714?style=for-the-badge&logo=python&logoColor=22d3ee)
 ![PHP](https://img.shields.io/badge/PHP-0a0714?style=for-the-badge&logo=php&logoColor=22d3ee)
+![C#](https://img.shields.io/badge/C%23-0a0714?style=for-the-badge&logo=csharp&logoColor=22d3ee)
 ![SQL](https://img.shields.io/badge/SQL-0a0714?style=for-the-badge&logo=postgresql&logoColor=22d3ee)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-0a0714?style=for-the-badge&logo=html5&logoColor=22d3ee)
 
