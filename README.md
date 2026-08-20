@@ -18,7 +18,7 @@
   role      fullstack engineer · ai agents · automation
   stack     TypeScript · Node · Laravel · Vue · React · Next
   minds     any model, or local via Ollama
-  building  Autopolis  ▓▓▓▓▓▓▓░░░  a city that runs itself
+  building  creative projects  ▓▓▓▓▓▓▓░░░  tech from other worlds
 > _
 ```
 
