@@ -3,13 +3,17 @@
 <img width="100%" src="header2.png" alt="dracoder"/>
 
 <a href="https://github.com/dracoder">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=C026D3&center=true&vCenter=true&width=720&lines=I+build+creative+apps+and+AI+automations.;Laravel+%C2%B7+Node+%C2%B7+Vue+%C2%B7+React+%C2%B7+Next+%C2%B7+TypeScript;products%2C+systems+%26+frontier+tech."/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=C026D3&center=true&vCenter=true&width=720&lines=I+build+creative+apps+and+AI+agents.;Real-time+systems%2C+front+to+infra.;Prototype+to+production%2C+fast."/>
 </a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=dracoder&label=signal%20received&color=22d3ee&style=flat-square"/>
 <img src="https://img.shields.io/github/followers/dracoder?label=followers&style=flat-square&color=c026d3&labelColor=0a0714"/>
+
+<br/>
+
+<sub><code>// status: shipping the weird idea, not the deck about it</code></sub>
 
 </div>
 
@@ -19,7 +23,7 @@
   stack     TS · JS · Python · PHP · C# · React · Next · Vue
             Laravel · Node · Inertia · Tailwind
   models    Claude · GPT-5 · Gemini · DeepSeek · Llama
-  building  frontier tech  ▓▓▓▓▓▓▓░░░
+  building  [ CLASSIFIED ]  ▓▓▓▓▓▓▓░░░
 > _
 ```
 
@@ -67,7 +71,7 @@
 
 </div>
 
-### ◤ contribution activity
+### ◤ signal log
 
 <div align="center">
 
@@ -77,11 +81,19 @@
 
 ### ◤ what i build
 
-> **▹ full-stack products, end to end**
-> Creative apps and AI automations, plus the real-time systems and backends behind them. From first prototype to production.
+> **▹ signal to product**
+> Creative apps and AI agents, plus the real-time systems and backends behind them. First prototype to production.
 >
-> `TypeScript` · `ai & agents` · `automation` · `real-time systems`
+> `TypeScript` · `ai agents` · `automation` · `real-time systems`
+
+### ◤ connect
 
 <div align="center">
-<sub>◦ dark cyber signal system ◦</sub>
+
+![open to build something](https://img.shields.io/badge/open_to_build_something-c026d3?style=for-the-badge&labelColor=0a0714)
+
+</div>
+
+<div align="center">
+<sub>◦ signal out · dracoder ◦</sub>
 </div>
